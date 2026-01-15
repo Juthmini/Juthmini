@@ -261,6 +261,6 @@ I believe in:
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
-<p><i>⭐️ From <a href="https://github.com/Juthmini">Juthmini</a> with 💜 | Happy Coding!</i></p>
+<p><i>⭐️ From <a href="https://github.com/Juthmini">Juthmini</a> | Happy Coding!</i></p>
   
 </div>
